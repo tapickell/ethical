@@ -1,4 +1,4 @@
-# Vigenere Chiper
+# Vigenere Cipher
 # takes a key of any length string
 # converts string characters to numbers
 # uses that number sequence to shift plain text
