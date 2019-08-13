@@ -4,7 +4,7 @@ import random
 import subprocess
 
 eth = 'enp0s25'
-original_mac = '68:f7:28:42:73:28'
+original_mac = '40:a3:cc:af:84:12'
 
 def append_seperator(char, x, max):
     if x == max or x % 2 == 0:
@@ -39,3 +39,5 @@ change_mac(eth, random_mac())
 # check_mac(eth)
 # print("Original Mac")
 # print(random_mac())
+
+
